@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Python, SQL/ noSQL, Mage.ai, Docker, AWS**
 
-- 📫 How to reach me **corneliusvincentgit@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/corneliusvincent/](https://www.linkedin.com/in/corneliusvincent/)
 
 - ⚡ Fun fact **I love embarking on crazy projects**
