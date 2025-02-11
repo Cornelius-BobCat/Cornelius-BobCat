@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Python, SQL/ noSQL, Mage.ai, Docker, AWS, React/nextjs**
 
-- 📄 Know about my experiences [Linkedin]([https://www.linkedin.com/in/corneliusvincent/]](https://glups.uno/my-linkedin))
+- 📄 Know about my experiences [Linkedin](https://glups.uno/my-linkedin)
 
 - ⚡ Fun fact **I love embarking on crazy projects**
 
